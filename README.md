@@ -8,6 +8,8 @@ INFO:
 (Permanent CFW on PSP 3004)
 * https://psp.scenebeta.com/noticia/6-61-infinity
 
+TEMAS:
+* https://psp.scenebeta.com/noticia/custom-xmb
 
 CFW:
 * https://psp.scenebeta.com/noticia/custom-firmware-pro#UltimaVersion
