@@ -12,3 +12,6 @@ CFW:
 
 * https://psp.scenebeta.com/noticia/low-custom-firmware-neur0n#ultima
 
+OFW:
+* https://psp.scenebeta.com/tutorial/cuadro-resumen-y-descarga-de-firmwares-originales-de-sony
+
