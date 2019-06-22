@@ -4,6 +4,8 @@ PaPer_DJ-Hacks-PSP (For PSP 3000 Mainly)
 --------------------------------------------------------------
 
 INFO:
+
+(Permanent CFW on PSP 3004)
 * https://psp.scenebeta.com/noticia/6-61-infinity
 
 
