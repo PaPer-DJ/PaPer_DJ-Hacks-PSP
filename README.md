@@ -169,3 +169,19 @@ Características Adicionales:
 HOME: El PSP inicia con el Firmware 6.61 Infinity sin cargar ningún Custom Firmware, es decir, el PSP se comportará como si tuviera un Firmware Oficial.
 Gatillo L: Activa el menú Recovery de 6.61 Infinity, sin embargo aun no esta implementado, por lo que el PSP solo se mantendrá con la pantalla en negro.
 Gatillo R: Inicia el menú Recovery del Custom Firmware que hayamos puesto como permanente.
+
+---------------------------------------------------------------------------------------
+
+¿Cómo ejecutar Copias de Seguridad (ISOs)?
+Estas se ejecutan como en cualquier otro Custom Firmware, los archivos ISO/CSO van en la carpeta ISO, en la raiz de la memoria de nuestra PSP. Se ejecutan desde el Menú Juegos del XMB.
+
+Para cargar Copias de segurdad de ISOs de UMD Video, les dejamos el tutorial explicado para Ejecutar ISOS de UMD Video.
+
+
+¿Cómo ejecutar juegos de PSX no oficiales?
+El Custom Firmware ME incorpora la función de poder ejecutar juegos de PSX sin la necesidad de utilizar Plugins. Los juegos de PSX tienen que estar en formato EBOOT.PBP y estos van en el directorio ms0:/PSP/GAME/NombrePSX/EBOOT.PBP o ef0:/PSP/GAME/NombrePSX/EBOOT.PBP. Se ejecutan desde el Menú Juegos del XMB.
+
+Dejamos el enlace a tutorial para crear sus propios Eboots de Juegos de PSX.
+
+Si quieres aumentar la compatibilidad de los juegos PSX, utiliza el plugin Popsloader.
+
