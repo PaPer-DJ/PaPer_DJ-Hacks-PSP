@@ -32,9 +32,15 @@ EMULATORS:
 * https://psp.scenebeta.com/noticia/unofficial-cps2psp
 * https://psp.scenebeta.com/noticia/unofficial-mvspsp
 * https://psp.scenebeta.com/noticia/neogeo-cdz-ncdzpsp
+* https://psp.scenebeta.com/noticia/race-psp
+* https://psp.scenebeta.com/noticia/final-burn-alpha-psp
 
 
 * https://psp.scenebeta.com/noticia/pspcap32
 * https://psp.scenebeta.com/noticia/pspvice
+* https://psp.scenebeta.com/noticia/fuse-psp
 * https://psp.scenebeta.com/noticia/scummvm-psp
 
+
+* https://psp.scenebeta.com/noticia/psp-mame4all
+* https://psp.scenebeta.com/noticia/retroarch-psp
