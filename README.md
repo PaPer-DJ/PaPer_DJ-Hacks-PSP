@@ -11,6 +11,10 @@ INFO:
 TEMAS:
 * https://psp.scenebeta.com/noticia/custom-xmb
 
+PLUGINS:
+* https://psp.scenebeta.com/psp/plug-ins
+
+
 CFW:
 * https://psp.scenebeta.com/noticia/custom-firmware-pro#UltimaVersion
 
