@@ -20,6 +20,7 @@ CFW:
   * https://psp.scenebeta.com/tutorial/funcionamiento-y-uso-del-custom-firmware-pro
 
 * https://psp.scenebeta.com/noticia/low-custom-firmware-neur0n#ultima
+  * https://psp.scenebeta.com/tutorial/funcionamiento-y-uso-del-custom-firmware-me
 
 OFW:
 * https://psp.scenebeta.com/tutorial/cuadro-resumen-y-descarga-de-firmwares-originales-de-sony
