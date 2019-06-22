@@ -19,5 +19,22 @@ OFW:
 
 EMULATORS:
 
+* https://psp.scenebeta.com/psp/emuladores
+
+
+* https://psp.scenebeta.com/noticia/snes9xtyl-mecm
+* https://psp.scenebeta.com/noticia/nesterj-aoex
+* https://psp.scenebeta.com/noticia/picodrive
+* https://psp.scenebeta.com/noticia/sms-plus-psp
+* https://psp.scenebeta.com/noticia/tempgba4psp
+* https://psp.scenebeta.com/noticia/unofficial-gpsp-kai
+* https://psp.scenebeta.com/noticia/unofficial-cps1psp
+* https://psp.scenebeta.com/noticia/unofficial-cps2psp
+* https://psp.scenebeta.com/noticia/unofficial-mvspsp
+* https://psp.scenebeta.com/noticia/neogeo-cdz-ncdzpsp
+
+
+* https://psp.scenebeta.com/noticia/pspcap32
+* https://psp.scenebeta.com/noticia/pspvice
 * https://psp.scenebeta.com/noticia/scummvm-psp
 
