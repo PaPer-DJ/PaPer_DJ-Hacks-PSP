@@ -17,3 +17,7 @@ CFW:
 OFW:
 * https://psp.scenebeta.com/tutorial/cuadro-resumen-y-descarga-de-firmwares-originales-de-sony
 
+EMULATORS:
+
+* https://psp.scenebeta.com/noticia/scummvm-psp
+
