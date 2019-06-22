@@ -27,6 +27,7 @@ EMULATORS:
 * https://psp.scenebeta.com/noticia/picodrive
 * https://psp.scenebeta.com/noticia/sms-plus-psp
 * https://psp.scenebeta.com/noticia/tempgba4psp
+* https://psp.scenebeta.com/noticia/masterboy
 * https://psp.scenebeta.com/noticia/unofficial-gpsp-kai
 * https://psp.scenebeta.com/noticia/unofficial-cps1psp
 * https://psp.scenebeta.com/noticia/unofficial-cps2psp
