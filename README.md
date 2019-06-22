@@ -17,6 +17,7 @@ PLUGINS:
 
 CFW:
 * https://psp.scenebeta.com/noticia/custom-firmware-pro#UltimaVersion
+ * https://psp.scenebeta.com/tutorial/funcionamiento-y-uso-del-custom-firmware-pro
 
 * https://psp.scenebeta.com/noticia/low-custom-firmware-neur0n#ultima
 
